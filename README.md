@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CassioAllan
+- 👋 Hi, I’m @ Allan Cássio
 - 👀 I’m interested in tecnologies
-- 🌱 I’m currently learning .NET, C# and looking for work
+- 🌱 I’m currently learning kotlin, I learned .NET, C# some day ago and looking for work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just here
 
