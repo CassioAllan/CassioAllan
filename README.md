@@ -2,7 +2,9 @@
 - 👀 I’m interested in tecnologies
 - 🌱 I’m currently learning kotlin, I learned .NET, C# some day ago and looking for work
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just here
+- 📫 How to reach me here or www.linkedin.com/in/allancassiomatos
+
+
 
 <!---
 CassioAllan/AllanCassio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
